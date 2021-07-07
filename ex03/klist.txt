@@ -1,0 +1,5 @@
+Credentials cache: API:D60643DA-CA58-4857-8325-81A66874ECCA
+        Principal: aboussed@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  7 11:10:12 2021  Jul  7 21:09:52 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
