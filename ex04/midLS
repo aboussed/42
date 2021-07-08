@@ -1,1 +1,1 @@
-ls -umptr
+ls -pUTm
